@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name": "Game Boy Advance",
+        "precio":30000,
+        "img":"https://images.pexels.com/photos/4511373/pexels-photo-4511373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+        "id":2,
+        "name": "Game Boy",
+        "precio":30000,
+        "img":"https://images.pexels.com/photos/6623827/pexels-photo-6623827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+        "id":3,
+        "name": "Game Boy",
+        "precio":30000,
+        "img":"https://images.pexels.com/photos/4511373/pexels-photo-4511373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+        "id":2,
+        "name": "Atari",
+        "precio":30000,
+        "img":"https://images.pexels.com/photos/4511373/pexels-photo-4511373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    }
+  
+]
